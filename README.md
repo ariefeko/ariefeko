@@ -55,6 +55,7 @@ filters by tech stack, summarizes using **Groq AI**, and delivers daily digest t
 
 ## 📫 Get in Touch
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0C0C0F?style=flat&logo=github&logoColor=white)](https://ariefeko.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arief-eko-wicaksono-4175a12a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:riff.sense@gmail.com)
 
