@@ -43,6 +43,9 @@ Analyzes uploaded documents and classifies risk level (Low / Medium / High) with
 Automated workflow built with **n8n** that aggregates remote job listings from multiple APIs,
 filters by tech stack, summarizes using **Groq AI**, and delivers daily digest to **Telegram Bot**.
 
+### 💻 [Local Agentic AI ](https://github.com/ariefeko/local-agentic-lab)
+Local-first agentic coding assistant with web browsing and online resource capabilities for learning and solving coding problems.
+
 ---
 
 ## 💼 Work Highlights
