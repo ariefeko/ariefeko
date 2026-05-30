@@ -41,10 +41,10 @@ Features an asynchronous background worker architecture to process and classify 
 
 ### 🤖 [Job Aggregator Automation](https://github.com/ariefeko/n8n-job-aggregator)
 Automated workflow built with **n8n** that aggregates remote job listings from multiple APIs,
-filters by tech stack, summarizes using **Groq AI**, and delivers daily digest to **Telegram Bot**.
+filters by tech stack, summarizes using **Groq AI** and **Gemini AI**, and delivers daily digest to **Telegram Bot**.
 
 ### 💻 [Local Agentic AI ](https://github.com/ariefeko/local-agentic-lab)
-Local-first agentic coding assistant with web browsing and online resource capabilities for learning and solving coding problems.
+Local-first agentic coding assistant with web browsing and online resource capabilities for learning and solving coding problems (on progress).
 
 ---
 
