@@ -1,6 +1,6 @@
 # Hi, I'm Arief 👋
 
-**Fullstack Engineer (Backend-Focused)** based in Indonesia — open to remote opportunities worldwide.
+**Senior Backend Engineer (Fullstack Capable)** based in Indonesia — Open to Worldwide B2B Contracts & Remote Roles.
 
 I build production-grade APIs, async systems, and CI/CD pipelines that hold up under pressure. 9+ years working across fintech, banking, and enterprise platforms.
 
@@ -36,8 +36,8 @@ I build production-grade APIs, async systems, and CI/CD pipelines that hold up u
 ## 🚀 Selected Projects
 
 ### 🧠 [Scalp Risk Platform](https://github.com/ariefeko/scalp-risk)
-OCR-based scalp health analysis platform built with **Laravel 11, Inertia.js, React, Tesseract OCR**.
-Analyzes uploaded documents and classifies risk level (Low / Medium / High) with dashboard and admin panel.
+OCR-based scalp health analysis platform built with **Laravel 11 (PHP 8.4), Inertia.js, React, Tesseract OCR**.
+Features an asynchronous background worker architecture to process and classify risk levels from high-res image uploads seamlessly.
 
 ### 🤖 [Job Aggregator Automation](https://github.com/ariefeko/n8n-job-aggregator)
 Automated workflow built with **n8n** that aggregates remote job listings from multiple APIs,
@@ -51,7 +51,7 @@ Local-first agentic coding assistant with web browsing and online resource capab
 ## 💼 Work Highlights
 
 - 🏦 **BRI** (one of Indonesia's largest state-owned banks) — Built digital signature platform with async queue workflows, achieving ~80% queue recovery rate in production
-- 🏢 **Nestlé** — Reduced CI/CD deployment failures by ~70% by optimizing build pipelines and GitHub Actions workflows
+- 🏢 **Nestlé** — Reduced CI/CD deployment failures by ~85-90% by optimizing build pipelines and GitHub Actions workflows
 - 🔧 **9+ years** delivering production systems across fintech, banking, and enterprise platforms
 
 ---
@@ -64,4 +64,4 @@ Local-first agentic coding assistant with web browsing and online resource capab
 
 ---
 
-*Open to remote opportunities — let's build something great together.* 🚀
+*Available for global B2B / independent contract roles with a hassle-free cross-border setup. Let's build something great together!* 🚀
