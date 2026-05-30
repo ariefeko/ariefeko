@@ -4,6 +4,8 @@
 
 I build production-grade APIs, async systems, and CI/CD pipelines that hold up under pressure. 9+ years working across fintech, banking, and enterprise platforms.
 
+Available for global B2B / independent contract roles with a hassle-free cross-border setup.
+
 ---
 
 ## 🛠️ Tech Stack
