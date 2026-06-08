@@ -1,6 +1,6 @@
 # Hi, I'm Arief 👋
 
-**Backend Engineer · PHP · Node.js · Python · AI Solutions Engineer** based in Indonesia — Open to Worldwide B2B Contracts & Remote Roles.
+**Backend Engineer · PHP · Node.js · Python · AI Solutions Developer** based in Indonesia — Open to Worldwide B2B Contracts & Remote Roles.
 
 I build production-grade APIs, async systems, and CI/CD pipelines that hold up under pressure. 9+ years working across fintech, banking, and enterprise platforms.
 
