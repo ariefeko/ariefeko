@@ -39,8 +39,8 @@ Available for global B2B / independent contract roles with a hassle-free cross-b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![OpenRouter](https://img.shields.io/badge/OpenRouter-6366f1?style=flat&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0EA5E9?style=flat&logoColor=white)
+![Webhook Architecture](https://img.shields.io/badge/Webhook_Architecture-6B7280?style=flat&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ---
