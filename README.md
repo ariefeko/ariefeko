@@ -8,7 +8,7 @@ Available for global B2B / independent contract roles with a hassle-free cross-b
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -45,9 +45,10 @@ Available for global B2B / independent contract roles with a hassle-free cross-b
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
-### 🤖 [CodeGuard AI](https://github.com/ariefeko/codeguard-ai)
+### [CodeGuard AI](https://github.com/ariefeko/codeguard-ai)
+
 AI-powered autonomous code guardian — automatically reviews PRs and detects bugs via GitHub webhook integration. Context-aware dependency resolution across multi-language codebases (PHP, Python, JS, TS, Go, C#) with LLM fallback chain.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -56,7 +57,8 @@ AI-powered autonomous code guardian — automatically reviews PRs and detects bu
 ![GitHub API](https://img.shields.io/badge/GitHub_API-181717?style=flat-square&logo=github&logoColor=white)
 ![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logoColor=white)
 
-### 🧠 [Scalp Risk Platform](https://github.com/ariefeko/scalp-risk)
+### [Scalp Risk Platform](https://github.com/ariefeko/scalp-risk)
+
 OCR-based scalp health analysis platform built with Laravel 11 (PHP 8.4), Inertia.js, React, Tesseract OCR. Features an asynchronous background worker architecture to process and classify risk levels from high-res image uploads seamlessly.
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
@@ -65,7 +67,8 @@ OCR-based scalp health analysis platform built with Laravel 11 (PHP 8.4), Inerti
 ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=flat-square&logoColor=white)
 ![Tesseract OCR](https://img.shields.io/badge/Tesseract_OCR-2196F3?style=flat-square&logoColor=white)
 
-### 🔁 [Job Aggregator Automation](https://github.com/ariefeko/n8n-job-aggregator)
+### [Job Aggregator Automation](https://github.com/ariefeko/n8n-job-aggregator)
+
 Automated workflow built with n8n that aggregates remote job listings from multiple APIs, filters by tech stack, summarizes using Groq AI and Gemini AI, and delivers daily digest to Telegram Bot.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -75,7 +78,7 @@ Automated workflow built with n8n that aggregates remote job listings from multi
 
 ---
 
-## 💼 Work Highlights
+## Work Highlights
 
 - 🏦 **BRI** (one of Indonesia's largest state-owned banks) — Built digital signature platform with async queue workflows, achieving ~80% queue recovery rate in production
 - 🏢 **Nestlé** — Reduced CI/CD deployment failures by ~85-90% by optimizing build pipelines and GitHub Actions workflows
@@ -83,7 +86,7 @@ Automated workflow built with n8n that aggregates remote job listings from multi
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0C0C0F?style=flat&logo=github&logoColor=white)](https://ariefeko.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arief-eko-wicaksono-4175a12a)
