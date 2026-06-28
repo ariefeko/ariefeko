@@ -1,10 +1,21 @@
-# Hi, I'm Arief 👋
+# Hi, I'm Arief
 
-**Backend Engineer · PHP · Node.js · Python · AI Solutions Developer** based in Indonesia — Open to Worldwide B2B Contracts & Remote Roles.
+**Senior Backend Engineer · AI-Augmented Development · LLM Integration · Python · Node.js · PHP** based in Indonesia — open to **worldwide remote B2B / independent contract roles**.
 
-I build production-grade APIs, async systems, and CI/CD pipelines that hold up under pressure. 9+ years working across fintech, banking, and enterprise platforms.
+I build backend systems, APIs, async workflows, and CI/CD pipelines for production environments.  
+My work spans banking, FMCG, enterprise platforms, automation, and AI-assisted developer tools.
 
-Available for global B2B / independent contract roles with a hassle-free cross-border setup.
+Recently, I’ve been focused on building practical AI systems that connect LLMs with real engineering workflows: PR review, webhook automation, OCR processing, background workers, and developer productivity tools.
+
+---
+
+## Core Strengths
+
+- Backend engineering with PHP, Laravel, Node.js, and Python
+- Production APIs, queue workflows, async processing, and recovery handling
+- CI/CD optimization with GitHub Actions, Docker, Platform.sh, and cloud deployment workflows
+- AI-assisted engineering with FastAPI, webhooks, LLM orchestration, prompt design, and automation tools
+- Enterprise delivery experience across banking, FMCG, and large-scale web platforms
 
 ---
 
@@ -49,7 +60,11 @@ Available for global B2B / independent contract roles with a hassle-free cross-b
 
 ### [CodeGuard AI](https://github.com/ariefeko/codeguard-ai)
 
-AI-powered autonomous code guardian — automatically reviews PRs and detects bugs via GitHub webhook integration. Context-aware dependency resolution across multi-language codebases (PHP, Python, JS, TS, Go, C#) with LLM fallback chain.
+AI-powered code review assistant that analyzes pull requests, detects potential bugs, and connects GitHub webhook events with LLM-based review workflows.
+
+Built with **Python, FastAPI, Sentry/GitHub webhook integration, async processing, multi-language code scanning, and LLM fallback orchestration.**
+
+The goal is simple: help engineering teams catch issues earlier, reduce manual review load, and turn production experience into automated review intelligence.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -59,7 +74,11 @@ AI-powered autonomous code guardian — automatically reviews PRs and detects bu
 
 ### [Scalp Risk Platform](https://github.com/ariefeko/scalp-risk)
 
-OCR-based scalp health analysis platform built with Laravel 11 (PHP 8.4), Inertia.js, React, Tesseract OCR. Features an asynchronous background worker architecture to process and classify risk levels from high-res image uploads seamlessly.
+OCR-based scalp health analysis platform built with **Laravel, Inertia.js, React, and Tesseract OCR.**
+
+The system processes high-resolution image uploads through background workers, extracts OCR data, and classifies risk levels from the processed result.
+
+This project focuses on practical image processing, async workflows, and turning raw OCR output into usable application data.
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -69,7 +88,11 @@ OCR-based scalp health analysis platform built with Laravel 11 (PHP 8.4), Inerti
 
 ### [Job Aggregator Automation](https://github.com/ariefeko/n8n-job-aggregator)
 
-Automated workflow built with n8n that aggregates remote job listings from multiple APIs, filters by tech stack, summarizes using Groq AI and Gemini AI, and delivers daily digest to Telegram Bot.
+Automated job intelligence workflow built with **n8n, Groq AI, Gemini AI, and Telegram Bot.**
+
+It collects remote job opportunities, filters them by tech stack, summarizes key details with LLMs, and delivers a daily digest through Telegram.
+
+This project combines automation, AI summarization, and practical workflow orchestration for global job search.
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white)
@@ -80,9 +103,24 @@ Automated workflow built with n8n that aggregates remote job listings from multi
 
 ## Work Highlights
 
-- 🏦 **BRI** (one of Indonesia's largest state-owned banks) — Built digital signature platform with async queue workflows, achieving ~80% queue recovery rate in production
-- 🏢 **Nestlé** — Reduced CI/CD deployment failures by ~85-90% by optimizing build pipelines and GitHub Actions workflows
-- 🔧 **9+ years** delivering production systems across fintech, banking, and enterprise platforms
+- **BRI** — Built backend components for a credit card digital signature platform at one of Indonesia’s largest state-owned banks, including async queue workflows, retry handling, and production recovery logic, achieving around **80% queue recovery rate**
+- **Nestlé** — Developed and maintained enterprise brand websites including **Lactoclub, Dancow, and Milo**, working across backend features, Drupal-based platforms, integrations, deployment workflows, and CI/CD optimization. Reduced deployment failures by approximately **85–90%** through GitHub Actions and build pipeline improvements
+- **Enterprise Delivery** — 9+ years building and maintaining production systems across banking, FMCG, and enterprise web platforms
+- **AI-Augmented Engineering** — Building tools around PR review automation, webhook-based agents, OCR workflows, and LLM-powered developer productivity
+
+---
+
+## What I’m Building Toward
+
+I’m interested in engineering teams that care about:
+
+- Reliable backend systems
+- Practical AI integration
+- Automation that reduces operational pain
+- Developer tools that improve engineering speed and quality
+- Async systems, queues, webhooks, and production-grade workflows
+
+I work best in roles where I can combine backend engineering, production problem-solving, and AI-assisted development.
 
 ---
 
@@ -94,4 +132,4 @@ Automated workflow built with n8n that aggregates remote job listings from multi
 
 ---
 
-*Available for global B2B / independent contract roles with a hassle-free cross-border setup. Let's build something great together!*
+*Open to worldwide remote B2B and independent contract roles — especially around backend engineering, AI-assisted development workflows, automation, and practical LLM integration.*
